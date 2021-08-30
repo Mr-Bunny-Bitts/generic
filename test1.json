@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "pattern": "D:\JenkinsHome\workspace\generic_job_example\test1.zip",
+      "pattern": "D:\\JenkinsHome\\workspace\\generic_job_example\\test1.zip",
       "target": "AUTOSAR-repo"
     }
   ]
