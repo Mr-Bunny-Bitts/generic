@@ -17,14 +17,14 @@ pipeline{
       steps {
         rtUpload (
         serverId: 'artifactory-server',
-        spec: {
+        spec: '''{
               "files": [
                 {
                   "pattern": "C:\\Users\\HP\\Desktop\\test-main.zip",
                   "target": "AUTOSAR-repo"
                 }
             ]
-        }
+        }''',
  
         // Optional - Associate the uploaded files with the following custom build name and build number,
         // as build artifacts.
