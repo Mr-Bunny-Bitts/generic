@@ -1,15 +1,8 @@
 {
-    "firstName": "Rack",
-    "lastName": "jackson",
-    "gender": "man",
-    "age": 24,
-    "address": {
-        "streetAddress": "126 Udhna",
-        "city": "san jone",
-        "state": "CA",
-        "postalCode": "394221"
-    },
-    "phoneNumbers": [
-        { "type": "home", "number": "7383627627" }
-    ]
+  "files": [
+    {
+      "pattern": "D:\JenkinsHome\workspace\generic_job_example\test1.zip",
+      "target": "AUTOSAR-repo"
+    }
+  ]
 }
