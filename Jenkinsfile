@@ -28,7 +28,7 @@ pipeline{
             }'''
           )*/
         rtDownload (
-        serverId: 'Jfrog-server',
+        serverId: 'artifactory-server',
         spec: '''{
             "files": [
             {
