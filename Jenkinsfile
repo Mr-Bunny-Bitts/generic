@@ -32,7 +32,7 @@ pipeline{
         spec: '''{
             "files": [
             {
-              "pattern": "AUTOSAR-repo/b/",
+              "pattern": "AUTOSAR-repo/b/*.zip",
               "target": "C:\\Users\\HP\\Desktop\\Output\\"
             }
           ]
