@@ -21,7 +21,7 @@ pipeline{
               "files": [
                 {
                   "pattern": "C:\\Users\\HP\\Desktop\\Output.zip",
-                  "target": "AUTOSAR-repo/a"
+                  "target": "AUTOSAR-repo/b/"
                 }
             ]
         }''',
