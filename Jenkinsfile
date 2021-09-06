@@ -20,8 +20,8 @@ pipeline{
         spec: '''{
               "files": [
                 {
-                  "pattern": "C:\\Users\\HP\\Desktop\\test-main.zip",
-                  "target": "AUTOSAR-repo"
+                  "pattern": "C:\\Users\\HP\\Desktop\\Output.zip",
+                  "target": "AUTOSAR-repo/a"
                 }
             ]
         }''',
