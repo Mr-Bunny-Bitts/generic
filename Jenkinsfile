@@ -38,7 +38,9 @@ pipeline{
           ]
         }'''
         )
-  
+        script {
+      unzip zipFile: 'Output.zip', dir: 'C:\\Users\\HP\\Desktop\\Output\\b\\'
+      }
       }
     }
   }
